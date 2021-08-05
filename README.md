@@ -1,5 +1,5 @@
 # expression-tree
-Binary expression tree made at data structure discipline
+Binary expression tree made at data structure discipline in java
 
 Examples of valid entries: 
 ( 1 + 2 )
